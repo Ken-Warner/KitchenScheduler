@@ -1,0 +1,10 @@
+D:\ProgrammingProjects\KitchenScheduler\KitchenScheduler\KS_Form\KS_Form\bin\Debug\KS_Form.exe.config
+D:\ProgrammingProjects\KitchenScheduler\KitchenScheduler\KS_Form\KS_Form\bin\Debug\KS_Form.exe
+D:\ProgrammingProjects\KitchenScheduler\KitchenScheduler\KS_Form\KS_Form\bin\Debug\KS_Form.pdb
+D:\ProgrammingProjects\KitchenScheduler\KitchenScheduler\KS_Form\KS_Form\obj\Debug\KS_Form.csprojAssemblyReference.cache
+D:\ProgrammingProjects\KitchenScheduler\KitchenScheduler\KS_Form\KS_Form\obj\Debug\KS_Form.Form1.resources
+D:\ProgrammingProjects\KitchenScheduler\KitchenScheduler\KS_Form\KS_Form\obj\Debug\KS_Form.Properties.Resources.resources
+D:\ProgrammingProjects\KitchenScheduler\KitchenScheduler\KS_Form\KS_Form\obj\Debug\KS_Form.csproj.GenerateResource.cache
+D:\ProgrammingProjects\KitchenScheduler\KitchenScheduler\KS_Form\KS_Form\obj\Debug\KS_Form.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\KitchenScheduler\KitchenScheduler\KS_Form\KS_Form\obj\Debug\KS_Form.exe
+D:\ProgrammingProjects\KitchenScheduler\KitchenScheduler\KS_Form\KS_Form\obj\Debug\KS_Form.pdb

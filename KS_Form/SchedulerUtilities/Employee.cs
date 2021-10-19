@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace SchedulerUtilities
 {
-    class Employee
+    [Serializable]
+    public class Employee
     {
+        public string Name { get; set; }
+        public ScheduleDays Availability { get; set; }
+        public JobCodes JobsKnown { get; set; }
+
     }
 }
